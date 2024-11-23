@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/nest/Code/GameOfLife3D/cuda/build",
+  "command": "/usr/bin/g++ -I/home/nest/Code/GameOfLife3D/cuda/./include -I/home/nest/Code/GameOfLife3D/cuda/dependency/MyLib/./include -I/home/nest/Code/GameOfLife3D/cuda/dependency/Cuda/./include -g -o CMakeFiles/Cuda_template.dir/src/main.cpp.o -c /home/nest/Code/GameOfLife3D/cuda/src/main.cpp",
+  "file": "/home/nest/Code/GameOfLife3D/cuda/src/main.cpp",
+  "output": "CMakeFiles/Cuda_template.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/nest/Code/GameOfLife3D/cuda/build",
+  "command": "/usr/bin/g++ -I/home/nest/Code/GameOfLife3D/cuda/./include -I/home/nest/Code/GameOfLife3D/cuda/dependency/MyLib/./include -g -o dependency/MyLib/CMakeFiles/MyLib.dir/src/hellow.cpp.o -c /home/nest/Code/GameOfLife3D/cuda/dependency/MyLib/src/hellow.cpp",
+  "file": "/home/nest/Code/GameOfLife3D/cuda/dependency/MyLib/src/hellow.cpp",
+  "output": "dependency/MyLib/CMakeFiles/MyLib.dir/src/hellow.cpp.o"
+},
+{
+  "directory": "/home/nest/Code/GameOfLife3D/cuda/build",
+  "command": "/usr/bin/nvcc -forward-unknown-to-host-compiler -DCUDABLAS -I/home/nest/Code/GameOfLife3D/cuda/./include -I/home/nest/Code/GameOfLife3D/cuda/dependency/Cuda/./include -g -std=c++14 \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -c /home/nest/Code/GameOfLife3D/cuda/dependency/Cuda/src/hellow_GPU.cu -o dependency/Cuda/CMakeFiles/MyCuda.dir/src/hellow_GPU.cu.o",
+  "file": "/home/nest/Code/GameOfLife3D/cuda/dependency/Cuda/src/hellow_GPU.cu",
+  "output": "dependency/Cuda/CMakeFiles/MyCuda.dir/src/hellow_GPU.cu.o"
+}
+]

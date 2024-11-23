@@ -1,0 +1,11 @@
+/home/nest/Code/GameOfLife3D/cuda/build/CMakeFiles/Cuda_template.dir
+/home/nest/Code/GameOfLife3D/cuda/build/CMakeFiles/edit_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/CMakeFiles/rebuild_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/CMakeFiles/edit_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/CMakeFiles/rebuild_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/MyLib/CMakeFiles/MyLib.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/MyLib/CMakeFiles/edit_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/MyLib/CMakeFiles/rebuild_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/Cuda/CMakeFiles/MyCuda.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/Cuda/CMakeFiles/edit_cache.dir
+/home/nest/Code/GameOfLife3D/cuda/build/dependency/Cuda/CMakeFiles/rebuild_cache.dir
